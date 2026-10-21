@@ -3,7 +3,6 @@ plugins {
 }
 
 android {
-    namespace 'com.fox.gameoverlay'
     compileSdk 34
 
     defaultConfig {
